@@ -1,4 +1,4 @@
-# 推荐使用on-my-tmux
+# 推荐使用https://github.com/gpakosz/.tmux
 
 ```
 $ git clone https://github.com/gpakosz/.tmux.git
